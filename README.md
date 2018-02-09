@@ -12,3 +12,5 @@ Simple TicTacToe game
 
 ### Using
 - React
+- Node
+- Webpack
